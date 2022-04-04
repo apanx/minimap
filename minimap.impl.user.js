@@ -481,8 +481,8 @@ const { html, render } = mlp_uhtml;
   );
   settings.addSetting(
     "donate",
-    new ButtonSetting("Donate me plz", function (donateSetting) {
-      window.open("https://www.donationalerts.com/r/vovskic2002");
+    new ButtonSetting("ETH 0x814F286805C7970bE941c69A35ac812e84108f66", function (donateSetting) {
+      window.open("https://boards.4channel.org/mlp/");
     })
   );
 
