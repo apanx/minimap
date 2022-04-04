@@ -3,7 +3,7 @@
 // @namespace   http://tampermonkey.net/
 // @description MLP Minimap r/Place
 // @include     https://hot-potato.reddit.com/embed*
-// @version     0.4
+// @version     0.404
 // @grant       GM.xmlHttpRequest
 // @author      Ponywka, bb010g
 // @downloadURL https://raw.githubusercontent.com/apanx/minimap/d/main/minimap.user.js
