@@ -6,8 +6,8 @@
 // @version     0.4
 // @grant       GM.xmlHttpRequest
 // @author      Ponywka, bb010g
-// @downloadURL https://raw.githubusercontent.com/r-ainbowroad/minimap/d/main/minimap.user.js
-// @updateURL   https://raw.githubusercontent.com/r-ainbowroad/minimap/d/main/minimap.user.js
+// @downloadURL https://raw.githubusercontent.com/apanx/minimap/d/main/minimap.user.js
+// @updateURL   https://raw.githubusercontent.com/apanx/minimap/d/main/minimap.user.js
 // @connect     raw.githubusercontent.com
 // @connect     media.githubusercontent.com
 // @require     https://unpkg.com/uhtml@2.8.1
