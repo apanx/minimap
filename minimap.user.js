@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        r/Place MLP Minimap /mlp/ Supremacy edition
 // @namespace   http://tampermonkey.net/
-// @description MLP Minimap r/Place
+// @description MLP Minimap r/Place, /mlp/ edition, Ponies, and especially Derpy, priority #1, everything else is not important
 // @include     https://hot-potato.reddit.com/embed*
 // @version     0.404
 // @grant       GM.xmlHttpRequest
